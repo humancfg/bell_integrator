@@ -13,4 +13,20 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-## Plugins
+## Jenkins plugins
+- Allure
+- Maven Integration
+- GitHub Branch
+
+## Job Config
+### Source Code Management
+Select radiobutton "git" and specify repository URL
+### Build
+#### Goals and options
+install -pl task_2_1 
+(need specify module)
+
+### Post Build Actions
+#### Allure Report
+Path: task_2_1/allure-results
+
