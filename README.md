@@ -17,6 +17,5 @@ install -pl task_2_1
 
 ### Post Build Actions
 #### Allure Report (need specify module path)
-***
 Path: task_2_1/allure-results
 
