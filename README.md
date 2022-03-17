@@ -9,7 +9,7 @@
 # Job Config
 
 ## Source Code Management<br>
- - Select radiobutton "git" and specify repository URL <br>
+ - Select radiobutton "git" and specify repository URL 
 
 ## Build
 ### Goals and options (need specify module)
