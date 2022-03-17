@@ -8,14 +8,14 @@
 
 # Job Config
 
-## Source Code Management<br>
- - Select radiobutton "git" and specify repository URL 
+## Source Code Management:
+Select radiobutton "git" and specify repository URL 
 
-## Build
+## Build:
 ### Goals and options (need specify module)
-install -pl task_2_1 
+`install -pl task_2_1` 
 
-## Post Build Actions
+## Post Build Actions:
 ### Allure Report (need specify module path)
-Path: task_2_1/allure-results
+Path: `task_2_1/allure-results`
 
