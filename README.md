@@ -8,7 +8,7 @@
 
 # Job Config
 
-## Source Code Management
+## Source Code Management<br>
  - Select radiobutton "git" and specify repository URL
 
 ## Build
